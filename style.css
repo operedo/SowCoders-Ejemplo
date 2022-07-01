@@ -16,7 +16,7 @@ html {
   padding: 14x 16x;
   color: white;
   text-decoration: none;
-  float: left;
+  float: right;
 }
 
 .menu a:hover {
@@ -28,7 +28,7 @@ body {
   width: 100%; 
   /*background-image: url("cakee_background.gif");*/
   background-image: url("5a27a172aeddbdebd2229b6903c37004.jpg");
-  background-color: orange;
+  background-color: red;
 }
 
 
